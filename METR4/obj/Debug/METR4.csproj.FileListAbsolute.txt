@@ -1,0 +1,10 @@
+E:\C# & Delphi\METR4\METR4\bin\Debug\METR4.exe
+E:\C# & Delphi\METR4\METR4\bin\Debug\METR4.pdb
+E:\C# & Delphi\METR4\METR4\obj\Debug\ResolveAssemblyReference.cache
+E:\C# & Delphi\METR4\METR4\obj\Debug\METR4.Form1.resources
+E:\C# & Delphi\METR4\METR4\obj\Debug\METR4.Properties.Resources.resources
+E:\C# & Delphi\METR4\METR4\obj\Debug\METR4.csproj.GenerateResource.Cache
+E:\C# & Delphi\METR4\METR4\obj\Debug\METR4.exe
+E:\C# & Delphi\METR4\METR4\obj\Debug\METR4.pdb
+E:\C# & Delphi\METR4\METR4\obj\Debug\METR4.Form2.resources
+E:\C# & Delphi\METR4\METR4\obj\Debug\METR4.Form3.resources
